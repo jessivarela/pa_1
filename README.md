@@ -58,4 +58,4 @@ a - b
 
     ## [1] 3.304
 
-I noticed that the duration of the unstressed word "hablo" was .525 ms while the duration of the stressed word "habló" was slightly longer as .580 ms. The vowel alone of the unstressed \[o\] was .265 ms and the stressed \[o\] was .178 ms. THe intensity of the stressed \[o\] was also higher than the unstressed \[o\]. For the F0, I got 4.643 hz for the stressed \[o\], but 1.339 for the unstressed \[o\].
+I noticed that the duration of the unstressed word "hablo" was .525 ms while the duration of the stressed word "habló" was slightly longer as .580 ms. The vowel alone of the unstressed \[o\] was .265 ms and the stressed \[o\] was .178 ms. THe intensity of the stressed \[o\] was also higher than the unstressed \[o\]. For the F0 or the pitch, I got 236.3 hz for the stressed \[o\], but 267.4 hz for the unstressed \[o\].
