@@ -47,15 +47,15 @@ w - z
 ``` r
 # f0_o_stressed = a 
 
-a <- 267.3545959655372 
+a <- 4.643 
 
 # f0_o_unstressed = b
 
-b <- 234.64765332032786 
+b <- 1.339
 
 a - b
 ```
 
-    ## [1] 32.70694
+    ## [1] 3.304
 
-I noticed that the duration of the unstressed word "hablo" was .525 ms while the duration of the stressed word "habló" was slightly longer as .580 ms. The vowel alone of the unstressed \[o\] was .265 ms and the stressed \[o\] was .178 ms. THe intensity of the stressed \[o\] was also higher than the unstressed \[o\]. Regarding the pitch, I got 267.35 hz for the stressed \[o\], but only 234.65 for the unstressed \[o\]
+I noticed that the duration of the unstressed word "hablo" was .525 ms while the duration of the stressed word "habló" was slightly longer as .580 ms. The vowel alone of the unstressed \[o\] was .265 ms and the stressed \[o\] was .178 ms. THe intensity of the stressed \[o\] was also higher than the unstressed \[o\]. For the F0, I got 4.643 hz for the stressed \[o\], but 1.339 for the unstressed \[o\].
